@@ -18,4 +18,4 @@ Forests and plantations are the backbone of our planet's ecological balance, off
 # Contributors
 - Dhruvi Goyal
 - Harsh Singh Chauhan
-- Aaditeshwar Seth
+- Prof. Aaditeshwar Seth
